@@ -41,6 +41,11 @@ make
 make run
 ```
 
+### 3️⃣ Clean Program
+
+```bash
+make clean
+```
 ---
 
 ## 💻 Example
